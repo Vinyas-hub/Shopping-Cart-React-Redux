@@ -22,6 +22,7 @@ const CartNav = () => {
       <div className={`navbar-link ${menuOpen ? 'open' : ''}`}>
         {isLoggedIn ? (
           <>
+          
             <div className="icons-container">
               <Link to="/cart">
                 <ShoppingCartIcon style={{ color: '#ccc' }} />
