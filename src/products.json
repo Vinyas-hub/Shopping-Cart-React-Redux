@@ -1,0 +1,195 @@
+
+
+{
+  
+    "beauty": [
+      {
+        "id": 1,
+        "title": "Pure Alovera Gel",
+        "price": 499,
+        "image":"img/Beauty/Bath1.jpg"
+       
+      },
+      {
+        "id": 2,
+        "title": "Tea tree skin care",
+        "price": 399,
+        "image":"img/Beauty/Bath2.jpg"
+       
+      },
+      {
+        "id": 3,
+        "title": "Basil Face wash",
+        "price": 450,
+        "image":"img/Beauty/Bath3.jpg"
+       
+      },
+      {
+        "id": 4,
+        "title": "Face Cleanser",
+        "price": 350,
+        "image":"img/Beauty/Bath4.jpg"
+       
+      },
+      {
+        "id": 5,
+        "title": "Honey Soap",
+        "price": 220,
+        "image":"img/Beauty/Bath5.jpg"
+       
+      },
+      {
+        "id": 6,
+        "title": "Neem & Tulsi Soap",
+        "price": 300,
+        "image":"img/Beauty/Bath6.jpg"
+       
+      }
+      ,
+      {
+        "id": 7,
+        "title": "Sow fresh Oil",
+        "price": 250,
+        "image":"img/Beauty/Bath7.jpg"
+       
+      },
+      {
+        "id": 8,
+        "title": "Natural Soap",
+        "price": 180,
+        "image":"img/Beauty/Bath8.jpg"
+       
+      }
+    ],
+    "drinks": [
+      {
+        "id": 9,
+        "title": "Smoothie Mix Sapote",
+        "price": 450,
+        "image":"img/Beverages/Beverage.jpg"
+      
+      },
+      {
+        "id": 10,
+        "title": "Coffe Chukku Kappi",
+        "price": 320,
+        "image":"img/Beverages/Beverage1.jpg"
+        
+      },
+      {
+        "id": 11,
+        "title": "Mix Natural Powder",
+        "price": 399,
+        "image":"img/Beverages/Beverage2.jpg"
+        
+      },
+      {
+        "id": 12,
+        "title": "Lemongrass",
+        "price": 249,
+        "image":"img/Beverages/Beverage3.jpg"
+      
+      },
+      {
+        "id": 13,
+        "title": "Protein Gel",
+        "price": 549,
+        "image":"img/Beverages/Beverage4.jpg"
+        
+      },
+      {
+        "id": 14,
+        "title": "Smoodies Juice",
+        "price": 329,
+        "image":"img/Beverages/Beverage5.jpg"
+        
+      },
+      {
+        "id": 15,
+        "title": "Giloy Alma Juice",
+        "price": 200,
+        "image":"img/Beverages/Beverage6.jpg"
+      
+      },
+      {
+        "id": 16,
+        "title": "Blue Tea",
+        "price": 199,
+        "image":"img/Beverages/Beverage7.jpg"
+        
+      },
+      {
+        "id": 17,
+        "title": "Buransh Juice",
+        "price": 349,
+        "image":"img/Beverages/Beverage8.jpg"
+        
+      }
+    ],
+    "food": [
+      {
+        "id": 18,
+        "title": "Orange Candy",
+        "price": 149,
+        "image":"img/Food/Food.jpg"
+       
+      },
+      {
+        "id": 19,
+        "title": "Gulkand",
+        "price": 450,
+        "image":"img/Food/Food1.jpg"
+       
+      },
+      {
+        "id": 20,
+        "title": "Cashew Nuts",
+        "price": 550,
+        "image":"img/Food/Food2.jpg"
+       
+      },
+      {
+        "id": 21,
+        "title": "Ginder Candy",
+        "price": 330,
+        "image":"img/Food/Food3.jpg"
+       
+      },
+      {
+        "id": 22,
+        "title": "Natural Honey",
+        "price": 850,
+        "image":"img/Food/Food4.jpg"
+       
+      },
+      {
+        "id": 23,
+        "title": "Natural Amla Candy",
+        "price": 550,
+        "image":"img/Food/Food5.jpg"
+       
+      },
+      {
+        "id": 24,
+        "title": "Singhara Atta",
+        "price": 200,
+        "image":"img/Food/Food6.jpg"
+       
+      },
+      {
+        "id": 25,
+        "title": "Jowar Dalia",
+        "price": 200,
+        "image":"img/Food/Food7.jpg"
+       
+      },
+      {
+        "id": 26,
+        "title": "Buransh Juice",
+        "price": 330,
+        "image":"img/Food/Food8.jpg"
+       
+      }
+    ]
+  }
+  

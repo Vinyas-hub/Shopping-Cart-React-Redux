@@ -1,0 +1,80 @@
+/* Assuming you have defined the class name "top-navbar" for the nav element */
+
+.top-navbar {
+    background-color: black; /* Background color for the navbar */
+    color: #fff; /* Font color for the links */
+    display: flex;
+    justify-content: flex-start;
+    /* padding: 10px; */
+  }
+  
+  .top-navbar a {
+    text-decoration: none;
+    color: gray;
+    margin-left: 50px;
+    font-weight: 700;
+}
+  
+  .top-navbar a:hover {
+    text-decoration: underline; /* Show underline on hover */
+  }
+  
+  /* If you want to style the "Login" link differently */
+  .top-navbar a.login {
+    background-color: #ff9800; /* Orange background for the login link */
+    padding: 8px 12px;
+    border-radius: 5px;
+  }
+  .navbar-link {
+    margin-top: 28px;
+    color: #ccc;
+    margin-left: 50%;
+}.navbar-heading {
+  margin-left: 80px;
+  font-size: 20px;
+  /* font-weight: bold; */
+  color: #ccc;
+  /* margin-left: 400px; */
+  padding: 7px;
+  /* margin-right: auto; */
+}
+
+.icons-container {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.icons-container a {
+  text-decoration: none;
+  color: #ccc;
+  display: flex;
+  align-items: center;
+  
+  background-color: black;
+}
+.welcome {
+  background-color: #ccc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 27vh;
+  padding: 33px 70px 22px 70px;
+  margin-left: 150px;
+  margin-top: 30px;
+  margin-right: 150px;
+  margin-bottom: 52px;
+  border-radius: 9px;
+  top: 20px;
+}
+.welcome h1 {
+  font-size: 45px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.welcome p {
+  font-size: 17px;
+  font-weight: 400;
+  text-align: center;
+}
